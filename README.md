@@ -119,3 +119,22 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;Product Cost
 
 &bull;Inventory Status
+
+**Shipments**
+
+&bull;Warehouse ID
+
+&bull;Shipment Date
+
+&bull;Expected Delivery
+
+&bull;Actual Delivery 
+
+&bull;Quantity Shipped
+
+&bull;Transport Cost
+
+&bull;Delay Days
+
+&bull;Shipment Status
+
