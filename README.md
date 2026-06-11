@@ -233,17 +233,29 @@ The forecasting process produced a forecast accuracy of 95.07%, demonstrating a 
 ## Project Architecture
 
 Excel Dataset
+
         ↓
+        
 Python Forecasting
+
         ↓
+        
 Power Query Transformation
+
         ↓
+        
 Data Modeling
+
         ↓
+        
 DAX KPI Calculations
+
         ↓
+        
 Power BI Dashboard
+
         ↓
+        
 Business Insights
 
 🔗 **Data Model**
