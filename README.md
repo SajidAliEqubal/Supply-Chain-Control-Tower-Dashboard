@@ -288,6 +288,11 @@ The Power BI dashboard was developed to provide a centralized Supply Chain Contr
 * Delivery Performance
 * Revenue by Brand and Category
 
+<p align="center">
+  <img src="Executive Dashboard.png" width="800">
+</p>
+
+
 #### Inventory Dashboard
 
 * Inventory Value Tracking
