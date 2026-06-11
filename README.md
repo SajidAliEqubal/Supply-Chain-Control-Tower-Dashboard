@@ -294,7 +294,7 @@ The Power BI dashboard was developed to provide a centralized Supply Chain Contr
 
 
 <p align="center">
-  <img src="Executive Dasboard2.png" width="800">
+  <img src="Executive Dashboard2.png" width="800">
 </p>
 
 #### Inventory Dashboard
