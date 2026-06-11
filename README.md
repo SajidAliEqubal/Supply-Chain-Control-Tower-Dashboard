@@ -63,22 +63,22 @@ Unit Cost
 
 **Suppliers**
 
-SupplierID
+&bull;SupplierID
 
-Supplier Name
+&bull;Supplier Name
 
-Lead Time, Days
+&bull;Lead Time, Days
 
-Rating
+&bull;Rating
 
-Defect Rate
+&bull;Defect Rate
 
 **Warehouses**
 
-WarehouseID
+&bull;WarehouseID
 
-Warehouse Name
+&bull;Warehouse Name
 
-City
+&bull;City
 
-Capacity
+&bull;Capacity
