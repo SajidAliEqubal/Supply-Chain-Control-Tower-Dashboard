@@ -309,7 +309,7 @@ The Power BI dashboard was developed to provide a centralized Supply Chain Contr
 </p>
 
 <p align="center">
-  <img src="Executive Dashboard2.png" width="800">
+  <img src="InventoryDashboard (2).png" width="800">
 </p>
 
 #### Supplier Dashboard
