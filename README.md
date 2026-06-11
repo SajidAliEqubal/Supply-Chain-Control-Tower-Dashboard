@@ -138,3 +138,16 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Shipment Status
 
+**Forecast**
+
+&bull;Forecast Month
+
+&bull;Product ID
+
+&bull;Actual Demand
+
+&bull;Forecast Demand
+
+&bull;Forecast Accuracy 
+
+&bull;Demand Variance
