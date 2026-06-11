@@ -82,3 +82,21 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;City
 
 &bull;Capacity
+
+**Orders**
+
+&bull;Month
+
+&bull;Product ID
+
+&bull;Product Name
+
+&bull;Warehouse ID
+
+&bull;Quantity
+
+&bull;Unit Price
+
+&bull;Sales Amount
+
+&bull;Delivery Status
