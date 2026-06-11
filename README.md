@@ -184,7 +184,7 @@ The project dataset is stored in the Excel workbook below.
 
 ### Data Set File
 
-[Open Excel Data] (Supply_Chain_Data.xlsx)
+[Open Excel Data] Supply_Chain_Data.xlsx
 
 🐍** Python Demand Forecasting Automation**
 
