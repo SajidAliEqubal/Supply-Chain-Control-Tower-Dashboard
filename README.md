@@ -26,11 +26,19 @@ To address these challenges, a centralized Supply Chain Control Tower was develo
 
 🛠️ **Tools & Technologies**
 &bull;Microsoft Power BI
+
 &bull;Microsoft Excel
+
 &bull;Python
+
 &bull;Pandas
+
 &bull;OpenPyXL
+
 &bull;DAX (Data Analysis Expressions)
+
 &bull;Power Query
+
 &bull;Data Modeling
+
 &bull;Business Intelligence Reporting
