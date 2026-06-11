@@ -91,6 +91,11 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Capacity
 
+<p align="center">
+  <img src="warehouses.png" width="800">
+</p>
+
+
 **Orders**
 
 &bull;Month
@@ -240,6 +245,3 @@ By analyzing supplier performance, shipment reliability, and inventory health, I
 
 The dashboard provides decision-makers with a centralized view of supply chain operations and highlights opportunities to improve supplier performance, optimize inventory levels, and increase overall service reliability.
 
-<p align="center">
-  <img src="warehouses.png" width="800">
-</p>
