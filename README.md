@@ -191,3 +191,33 @@ The generated forecast dataset was automatically written back to the Forecast wo
 **Outcome**
 
 The forecasting process produced a forecast accuracy of 95.07%, demonstrating a high level of alignment between forecasted and actual demand.
+
+🔗 **Data Model**
+
+A star-schema data model was implemented to improve reporting efficiency and analytical performance.
+
+**Relationships**
+
+Suppliers → Products → Orders
+
+Products → Inventory
+
+Products → Forecast
+
+Warehouses → Orders
+
+Warehouses → Inventory
+
+Warehouses → Shipments
+
+**Benefits**
+
+The data model provides:
+
+&bull; Faster report performance
+
+&bull; Simplified relationship management
+
+&bull; Accurate KPI calculations
+
+&bull; Improved dashboard responsiveness
