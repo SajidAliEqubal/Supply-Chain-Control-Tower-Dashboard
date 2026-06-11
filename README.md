@@ -304,6 +304,14 @@ The Power BI dashboard was developed to provide a centralized Supply Chain Contr
 * Stockout Risk Analysis
 * Current Stock vs Reorder Point Monitoring
 
+<p align="center">
+  <img src="Executive Dashboard.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Executive Dashboard2.png" width="800">
+</p>
+
 #### Supplier Dashboard
 
 * Supplier Performance Evaluation
