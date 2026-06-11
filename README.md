@@ -100,3 +100,22 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;Sales Amount
 
 &bull;Delivery Status
+
+
+**Inventory**
+
+&bull;SKU ID
+
+&bull;Warehouse ID
+
+&bull;Current Stock
+
+&bull;Safety Stock
+
+&bull;Reorder Point
+
+&bull;Unit Cost
+
+&bull;Product Cost
+
+&bull;Inventory Status
