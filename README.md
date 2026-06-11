@@ -151,3 +151,43 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;Forecast Accuracy 
 
 &bull;Demand Variance
+
+🐍** Python Demand Forecasting Automation**
+
+Before developing the Forecast Dashboard, a Python-based forecasting workflow was implemented to automate demand forecasting and KPI generation.
+
+Forecasting Workflow
+👉Step 1: Historical Order Extraction
+
+Historical sales transactions were extracted from the Orders dataset.
+
+👉Step 2: Data Preparation
+
+The following preprocessing steps were performed:
+
+Converted order dates into datetime format
+Created monthly forecasting periods
+Prepared demand history for aggregation
+👉Step 3: Demand Aggregation
+
+Monthly demand was calculated by grouping order quantities by Product ID and Forecast Month.
+
+👉Step 4: Forecast Generation
+
+Forecast demand values were generated using controlled demand variation within ±10% of actual demand.
+
+👉Step 5: Forecast KPI Calculation
+
+The script calculated:
+
+Actual Demand
+Forecast Demand
+Forecast Accuracy
+Demand Variance
+👉Step 6: Automated Excel Integration
+
+The generated forecast dataset was automatically written back to the Forecast worksheet using OpenPyXL.
+
+Outcome
+
+The forecasting process produced a forecast accuracy of 95.07%, demonstrating a high level of alignment between forecasted and actual demand.
