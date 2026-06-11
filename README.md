@@ -264,3 +264,68 @@ By analyzing supplier performance, shipment reliability, and inventory health, I
 
 The dashboard provides decision-makers with a centralized view of supply chain operations and highlights opportunities to improve supplier performance, optimize inventory levels, and increase overall service reliability.
 
+## 📊 Power BI Dashboard
+
+The Power BI dashboard was developed to provide a centralized Supply Chain Control Tower for monitoring operational performance across sales, inventory, suppliers, shipments, and demand forecasting.
+
+### Dashboard Pages
+
+#### Executive Dashboard
+
+* Revenue Analysis
+* Order Performance
+* OTIF Monitoring
+* Delivery Performance
+* Revenue by Brand and Category
+
+#### Inventory Dashboard
+
+* Inventory Value Tracking
+* High-Risk SKU Identification
+* Stockout Risk Analysis
+* Current Stock vs Reorder Point Monitoring
+
+#### Supplier Dashboard
+
+* Supplier Performance Evaluation
+* Lead Time Analysis
+* Shipment Status Monitoring
+* Delay Analysis by Supplier
+
+#### Forecast Dashboard
+
+* Actual vs Forecast Demand
+* Forecast Accuracy Tracking
+* Demand Variance Analysis
+* Product-Level Forecast Performance
+
+### Key Features
+
+* Interactive slicers and filters
+* KPI monitoring
+* Inventory risk tracking
+* Supplier performance analysis
+* Shipment performance monitoring
+* Demand forecasting insights
+* Dynamic dashboard navigation
+
+### Skills Demonstrated
+
+* Power BI Development
+* Data Modeling
+* DAX Measures
+* Power Query
+* Dashboard Design
+* KPI Development
+* Business Intelligence Reporting
+
+### Power BI File
+
+Supply_Chain_Control_Tower.pbix
+
+
+### View Dashboard File
+
+[Open Power BI Dashboard](Supply_Chain_Control_Tower.pbix)
+
+
