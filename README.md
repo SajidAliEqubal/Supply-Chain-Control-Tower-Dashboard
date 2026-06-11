@@ -180,6 +180,12 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
   <img src="forecast.png" width="800">
 </p>
 
+The project dataset is stored in the Excel workbook below.
+
+### Data Set File
+
+[Open Excel Data] (Supply_Chain_Data.xlsx)
+
 🐍** Python Demand Forecasting Automation**
 
 Before developing the Forecast Dashboard, a Python-based forecasting workflow was implemented to automate demand forecasting and KPI generation.
