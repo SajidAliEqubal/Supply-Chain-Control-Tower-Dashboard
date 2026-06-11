@@ -220,6 +220,10 @@ The generated forecast dataset was automatically written back to the Forecast wo
 
 The forecasting process produced a forecast accuracy of 95.07%, demonstrating a high level of alignment between forecasted and actual demand.
 
+### View Notebook
+
+[Open Python Forecasting Notebook](supplychain.ipynb)
+
 🔗 **Data Model**
 
 A star-schema data model was implemented to improve reporting efficiency and analytical performance.
