@@ -3,4 +3,5 @@ End-to-end Supply Chain Control Tower built with Power BI, Python, Excel, DAX, a
 <p align="center">
   <img src="amazon-ppc-management.gif" width="500">
 </p>
-🚒 Supply Chain Control Tower Dashboard
+
+🚒 **Supply Chain Control Tower Dashboard**
