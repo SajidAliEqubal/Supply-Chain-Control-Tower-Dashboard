@@ -230,6 +230,22 @@ The forecasting process produced a forecast accuracy of 95.07%, demonstrating a 
 
 [Open Python Forecasting Notebook](supplychain.ipynb)
 
+## Project Architecture
+
+Excel Dataset
+        ↓
+Python Forecasting
+        ↓
+Power Query Transformation
+        ↓
+Data Modeling
+        ↓
+DAX KPI Calculations
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights
+
 🔗 **Data Model**
 
 A star-schema data model was implemented to improve reporting efficiency and analytical performance.
