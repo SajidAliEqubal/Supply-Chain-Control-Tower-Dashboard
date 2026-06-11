@@ -233,9 +233,7 @@ The forecasting process produced a forecast accuracy of 95.07%, demonstrating a 
 ## Project Architecture
 
 Excel Dataset
-
         ↓
-        
 Python Forecasting
 
         ↓
