@@ -305,11 +305,11 @@ The Power BI dashboard was developed to provide a centralized Supply Chain Contr
 * Current Stock vs Reorder Point Monitoring
 
 <p align="center">
-  <img src="Executive Dashboard.png" width="800">
+  <img src="InventoryDashboard.png " width="800">
 </p>
 
 <p align="center">
-  <img src="Executive Dashboard2.png" width="800">
+  <img src="InventoryDashboard2.png " width="800">
 </p>
 
 #### Supplier Dashboard
