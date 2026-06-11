@@ -42,3 +42,59 @@ To address these challenges, a centralized Supply Chain Control Tower was develo
 &bull;Data Modeling
 
 &bull;Business Intelligence Reporting
+
+📂** Dataset Structure**
+
+The dataset was designed to simulate a real-world FMCG supply chain environment.
+
+Products
+ProductID
+Product Name
+Category
+Brand
+SupplierID
+Unit Price
+Suppliers
+SupplierID
+Supplier Name
+Lead Time
+Defect Rate
+Warehouses
+WarehouseID
+Warehouse Name
+Location
+Orders
+OrderID
+ProductID
+WarehouseID
+Order Date
+Quantity
+Sales Amount
+Delivery Status
+Inventory
+ProductID
+WarehouseID
+Current Stock
+Safety Stock
+Reorder Point
+Status
+Shipments
+ShipmentID
+SupplierID
+ProductID
+Product Name
+WarehouseID
+Shipment Date
+Expected Delivery
+Actual Delivery
+Quantity Shipped
+Transport Cost
+Delay Days
+Shipment Status
+Forecast
+Forecast Month
+Product ID
+Actual Demand
+Forecast Demand
+Forecast Accuracy
+Demand Variance
