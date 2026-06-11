@@ -114,6 +114,9 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Delivery Status
 
+<p align="center">
+  <img src="orders.png" width="800">
+</p>
 
 **Inventory**
 
@@ -133,6 +136,10 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Inventory Status
 
+<p align="center">
+  <img src="Inventory.png" width="800">
+</p>
+
 **Shipments**
 
 &bull;Warehouse ID
@@ -151,6 +158,10 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Shipment Status
 
+<p align="center">
+  <img src="shipment.png" width="800">
+</p>
+
 **Forecast**
 
 &bull;Forecast Month
@@ -164,6 +175,10 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;Forecast Accuracy 
 
 &bull;Demand Variance
+
+<p align="center">
+  <img src="forecast.png" width="800">
+</p>
 
 🐍** Python Demand Forecasting Automation**
 
