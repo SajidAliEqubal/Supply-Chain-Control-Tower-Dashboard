@@ -182,9 +182,9 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 The project dataset is stored in the Excel workbook below.
 
-### Data Set File
+### View Dataset
 
-[Open Excel Data] Supply_Chain_Data.xlsx
+[Open Supply Chain Dataset](Data/Supply_Chain_Data.xlsx)
 
 🐍** Python Demand Forecasting Automation**
 
