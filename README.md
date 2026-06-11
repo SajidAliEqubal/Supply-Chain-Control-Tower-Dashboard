@@ -6,7 +6,7 @@ End-to-end Supply Chain Control Tower built with Power BI, Python, Excel, DAX, a
 
 🚒 **Supply Chain Control Tower Dashboard**
 
-📌 ## Project Overview 
+📌 # Project Overview 
 
 I developed an end-to-end Supply Chain Control Tower using Microsoft Power BI, Excel, Python, DAX, and Power Query.
 
