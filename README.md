@@ -25,12 +25,12 @@ Limited visibility across supply chain operations
 To address these challenges, a centralized Supply Chain Control Tower was developed to monitor critical KPIs and provide actionable insights for management.
 
 🛠️ **Tools & Technologies**
--Microsoft Power BI
--Microsoft Excel
--Python
--Pandas
--OpenPyXL
--DAX (Data Analysis Expressions)
--Power Query
--Data Modeling
--Business Intelligence Reporting
+&bull;Microsoft Power BI
+Microsoft Excel
+Python
+Pandas
+OpenPyXL
+DAX (Data Analysis Expressions)
+Power Query
+Data Modeling
+Business Intelligence Reporting
