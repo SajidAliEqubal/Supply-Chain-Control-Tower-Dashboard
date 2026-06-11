@@ -77,6 +77,10 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 &bull;Defect Rate
 
+<p align="center">
+  <img src="suppliers.png" width="800">
+</p>
+
 **Warehouses**
 
 &bull;WarehouseID
