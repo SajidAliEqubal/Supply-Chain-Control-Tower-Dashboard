@@ -62,7 +62,7 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 &bull;Unit Cost
 
 <p align="center">
-  <img src="Products.png" width="500">
+  <img src="Products.png" width="800">
 </p>
 
 **Suppliers**
