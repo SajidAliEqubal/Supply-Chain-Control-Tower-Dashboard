@@ -49,17 +49,17 @@ The dataset was designed to simulate a real-world FMCG supply chain environment.
 
 **Products**
 
-ProductID
+&bull;ProductID
 
-Product Name
+&bull;Product Name
 
-Category
+&bull;Category
 
-Brand
+&bull;Brand
 
-Unit Price
+&bull;Unit Price
 
-Unit Cost
+&bull;Unit Cost
 
 **Suppliers**
 
