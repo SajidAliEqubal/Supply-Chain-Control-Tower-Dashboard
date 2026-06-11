@@ -248,6 +248,10 @@ Warehouses → Inventory
 
 Warehouses → Shipments
 
+<p align="center">
+  <img src="PowerBIRelationsip.png" width="800">
+</p>
+
 **Benefits**
 
 The data model provides:
