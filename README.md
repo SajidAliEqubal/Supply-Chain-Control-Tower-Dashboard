@@ -221,3 +221,13 @@ The data model provides:
 &bull; Accurate KPI calculations
 
 &bull; Improved dashboard responsiveness
+
+📖 **Business Story**
+
+As a Supply Chain Analyst, I developed a Supply Chain Control Tower to investigate operational challenges across inventory, suppliers, shipments, and demand planning.
+
+The analysis revealed that demand forecasting was highly accurate (95.07%), indicating that the company could predict customer demand effectively. However, service-level performance remained weak, with only 49% OTIF and more than 50% of orders experiencing delays.
+
+By analyzing supplier performance, shipment reliability, and inventory health, I identified supplier delays and inventory stockout risks as the primary drivers of poor delivery performance. Nearly 39% of SKUs were classified as high risk, while only 36% of shipments arrived on time.
+
+The dashboard provides decision-makers with a centralized view of supply chain operations and highlights opportunities to improve supplier performance, optimize inventory levels, and increase overall service reliability.
